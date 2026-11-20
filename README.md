@@ -14,8 +14,8 @@ A modern KDE-based distribution refined for multitasking and stability, crafted 
 ## 🖥️ Minimum System Requirements
 Koppie Linux follows the minimum requirements for Arch Linux KDE Plasma . Minimum and recommended specs:
 
-- Architecture: 64-bit (x86_64)
-- Minimum RAM: 4 GB recommended (4 GB for the ISO copytoram install & smooth performance)
+- Architecture: 64-bit (x86_64, aarch64 or arm is coming soon)
+- Minimum RAM: 4 GB recommended
 - Disk space: 25 GB free (40 GB recommended)
 - Display: 1024×768 minimum resolution
 - Internet: Optional
