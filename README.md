@@ -27,5 +27,5 @@ Some that are below 2 GB I will put here (in releases maybe?)
 
 
 ## 💬 Feedback & Bug Reports
-If there is a problem with the system or something Please open an **Issue** in this repository or leave a comment on my **[YouTube channel]( https://www.youtube.com/@raihanbytes)** or ccontact koppie linux at contact.koppielinux@yahoo.com
+If there is a problem with the system or something Please open an **Issue** in this repository or leave a comment on my **[YouTube channel]( https://www.youtube.com/@raihanbytes)** or contact koppie linux at contact.koppielinux@yahoo.com
 
